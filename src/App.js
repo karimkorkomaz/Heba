@@ -22,6 +22,8 @@ I want to remind you that I'm always here to support you, and make you become th
 
 You're smart, funny, kind hearted and the best gym partner i've ever had.Overall, you're an amazing person.
 
+kteer cringe hayda shi yele 3melto bas I couldn't think of any better ideas.
+
 Thank you for being you.
 Merry Christmas, my favorite person.
 

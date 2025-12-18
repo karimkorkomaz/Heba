@@ -24,7 +24,7 @@ You're smart, funny, kind hearted and the best gym partner i've ever had.Overall
 
 I know that I may never fill the gap of your ex, but I promise to always be there for you  and help you through everything you encounter.
 
-kteer cringe hayda shi w dramatic yele 3melto bas I couldn't think of any better ideas.
+kteer cringe hayda shi w dramatic yele 3melto bas I couldn't think of any better ideas. I'm also building this website b Raseef bedoon ma tentebhe :P . 
 
 You deserve the world.
 Merry Christmas, my favorite person.

@@ -10,7 +10,7 @@ import "./App.css";
 const CONFIG = {
   herName: "Heba Annan",
   yourName: "Karim",
-  dateLine: "Christmas 2025",
+ 
   heroTitle: "My Princess",
   heroSubtitle:
     "This website is a tiny universe I built as a christmas gift since I am broke. ",
@@ -22,19 +22,23 @@ I want to remind you that I'm always here to support you, and make you become th
 
 You're smart, funny, kind hearted and the best gym partner i've ever had.Overall, you're an amazing person.
 
-kteer cringe hayda shi yele 3melto bas I couldn't think of any better ideas.
+I know that I may never fill the gap of your ex, but I promise to always be there for you  and help you through everything you encounter.
 
-Thank you for being you.
+kteer cringe hayda shi w dramatic yele 3melto bas I couldn't think of any better ideas.
+
+You deserve the world.
 Merry Christmas, my favorite person.
 
 — ${"Karim"}`,
   // Add/replace reasons:
   reasons: [
     "Your cheeks are my favourite things to play with ",
-    "You listen with your whole heart.",
-    "You’re one of the very few people I can trust",
+    "I can carry you and make a bicep exercise.",
+    "I love your hair when it's messy.",
     "You're the best gym partner anyone could ever ask for",
-    "You inspire me to be better.",
+    "You're adorable when you get hungry.",
+    "I know that I can always go to you if i'm having a bad day",
+    "You're a cutie little bean.",
     "You're YOU",
   ],
   // Add your images here (put files in /public/memories and reference them like below)
@@ -81,6 +85,30 @@ Merry Christmas, my favorite person.
       src: "/memories/placeholder7.jpeg",
       title: "Our Random Gym pics",
       note: "You have progressed a lot",
+      date: "—",
+    },
+    {
+      src: "/memories/placeholder8.jpg",
+      title: "my little biker girl",
+      note: "vroom vroom",
+      date: "—",
+    },
+    {
+      src: "/memories/placeholder9.jpg",
+      title: "Az3ar bada t2eba",
+      note: "vroom vroom",
+      date: "—",
+    },
+    {
+      src: "/memories/placeholder10.jpg",
+      title: "Meen m3almek b tawle? ANA!",
+      note: "HEHEHE",
+      date: "—",
+    },
+    {
+      src: "/memories/placeholder11.jpg",
+      title: "mnekhtema ma3 sora ente w hady taht zaytone cuz nehna ahl ljnoub ",
+      note: "bedo yetla3 shi3e pro max metle bas yekbar",
       date: "—",
     },
      
@@ -241,7 +269,7 @@ export default function App() {
             For <b>{CONFIG.herName}</b>
           </span>
         </div>
-        <div className="chip">{CONFIG.dateLine}</div>
+        
       </header>
 
       {/* HERO */}
@@ -252,7 +280,7 @@ export default function App() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
         >
-          <p className="kicker">A Christmas page, for Heba</p>
+          <p className="kicker">A Christmas gift, for Heba</p>
           <h1>{CONFIG.heroTitle}</h1>
           <p className="subtitle">{typed}</p>
 
@@ -261,7 +289,7 @@ export default function App() {
               Open your gift 🎁
             </a>
             <a className="btn ghost" href="#memories">
-              Our memories ✨
+              Our gallery ✨
             </a>
           </div>
 
@@ -322,7 +350,7 @@ export default function App() {
               >
                 <pre className="letterText">{CONFIG.loveLetter}</pre>
                 <div className="paperFooter">
-                  <span className="muted">P.S.</span> You’re my favorite constant.
+                  <span className="muted">P.S.</span> I love you.
                 </div>
               </motion.div>
             ) : (
@@ -445,13 +473,13 @@ export default function App() {
           <h2>Always, in every season.</h2>
           <p className="muted">
             No matter what the year brings—good days, hard days, loud days, quiet
-            days—I’m always here. This is only the beginning of more great memories.
+            days—I’m always here. You're my little princess who I will always love and protect.
           </p>
           <div className="promiseRow">
             <div className="pill">✨ Support</div>
             <div className="pill">🧠 Understanding</div>
             <div className="pill">😂 Laughs</div>
-            <div className="pill">🫶 Loyalty</div>
+            <div className="pill">🤍 Promises</div>
           </div>
         </div>
       </section>

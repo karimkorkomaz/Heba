@@ -2,11 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import "./App.css";
 
-/**
- * =========================
- * EDIT THESE (CUSTOMIZATION)
- * =========================
- */
+
 const CONFIG = {
   herName: "Heba Annan",
   yourName: "Karim",
@@ -14,15 +10,15 @@ const CONFIG = {
   heroTitle: "My Princess",
   heroSubtitle:
     "This website is a tiny universe I built as a christmas gift since I am broke. ",
-  loveLetter: `Hey you,
+  Letter: `Hey you,
 
-I know this year was one of the worst. You've been through a lot of downs, and struggled through a lot. 
+I know this year was one of the worst. You've been through a lot of downs, and got put up with lots of bullshit. 
 
-I want to remind you that I'm always here to support you, and make you become the best version of yourself.
+Just a quick reminder that I'm always here to support you, and make you become the best version of yourself.
 
-You're smart, funny, kind hearted and the best gym partner i've ever had.Overall, you're an amazing person.
+You're smart, funny, beautiful  and the best gym partner i've ever had.Overall, you're an amazing person.
 
-I know that I may never fill the gap of your ex, but I promise to always be there for you  and help you through everything you encounter.
+I know that I may never fill the gap of your ex, but I promise to always be there for you  and help you through everything.
 
 kteer cringe hayda shi w dramatic yele 3melto bas I couldn't think of any better ideas. I'm also building this website b Raseef bedoon ma tentebhe :P . 
 
@@ -30,7 +26,7 @@ You deserve the world.
 Merry Christmas, my favorite person.
 
 — ${"Karim"}`,
-  // Add/replace reasons:
+  
   reasons: [
     "Your cheeks are my favourite things to play with ",
     "I can carry you and make a bicep exercise.",
@@ -41,8 +37,7 @@ Merry Christmas, my favorite person.
     "You're a cutie little bean.",
     "You're YOU",
   ],
-  // Add your images here (put files in /public/memories and reference them like below)
-  // Or use external URLs.
+
   memories: [
     {
       src: "/memories/memory1.jpg",
@@ -348,7 +343,7 @@ export default function App() {
                 exit={{ opacity: 0, y: 16 }}
                 transition={{ duration: 0.35 }}
               >
-                <pre className="letterText">{CONFIG.loveLetter}</pre>
+                <pre className="letterText">{CONFIG.Letter}</pre>
                 <div className="paperFooter">
                   <span className="muted">P.S.</span> I love you.
                 </div>

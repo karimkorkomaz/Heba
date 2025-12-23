@@ -18,7 +18,7 @@ Just a quick reminder that I'm always here to support you, and make you become t
 
 You're smart, funny, beautiful  and the best gym partner i've ever had.Overall, you're an amazing person.
 
-I know that I may never fill the gap of your ex, but I promise to always be there for you  and help you through everything.
+I know that I may never fill the gap of your ex,and I know how hard it is for you to move on and how hard it is to not think about her. I really try to make you realise that nothing in this world is worth your tears. I promise to always be there for you, and work really hard so that I can give you everything you deserve.  .
 
 kteer cringe hayda shi w dramatic yele 3melto bas I couldn't think of any better ideas. I'm also building this website b Raseef bedoon ma tentebhe :P . 
 
@@ -345,7 +345,7 @@ export default function App() {
               >
                 <pre className="letterText">{CONFIG.Letter}</pre>
                 <div className="paperFooter">
-                  <span className="muted">P.S.</span> I love you.
+                  <span className="muted">P.S.</span> Bede nik ekht l masare la ro7 otlob 2idek mn bayek HAHAHA.
                 </div>
               </motion.div>
             ) : (
